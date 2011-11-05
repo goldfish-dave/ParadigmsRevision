@@ -1,0 +1,70 @@
+% Senior Quantum Mechanics Revision
+% Dave Wilcox
+
+# Contents
+
+* Functional Programming
+* Syntax
+* Semantics
+* Parsing
+* Names, Scope, Bindings
+* Types
+* Code Generation
+* Data Flow Analysis
+* Logic Oriented Programming
+
+# Functional Programming
+
+* Lambda Calculus
+* Lisp
+* Lazy Evaluation
+* Higher Functions
+* Continuations
+* Haskell
+
+# Syntax & Semantics
+
+* Grammars
+* Scanner + Parser
+* Semantics
+* Tokens
+* Deterministic Finite State Automata
+* NFA to DFA transformations
+* Static/Dynamic Semantics
+* Attribute Grammars
+
+
+# Names & Binding
+
+* Names
+* Binding Time
+* Object Lifetime
+* Object Storage
+* Scope rules
+* Overloading and Polymorphism
+
+# Types
+
+* Uses
+* Strong Vs Weak Typing
+* Static Vs Dynamic
+* Scalar Types
+* Enumeration Types
+* Subrange Types
+* Composite Types
+* Records
+* Type Equivalence
+
+# Code Generation
+
+* Optimizing Compilers
+* Program Analysis
+* Data Flow Analysis
+* Register Allocation
+
+# Logic Programming
+
+* Predicate Logic
+* Facts, Queries, Rules
+* Backward Vs Foward Chaining
+
